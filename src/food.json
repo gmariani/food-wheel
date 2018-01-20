@@ -1,0 +1,517 @@
+{
+	"places": [{
+		"name": "New Hong Kong",
+		"type": "Chinese",
+		"hours": {
+			"mon": "1100-2300",
+			"tue": "1100-2300",
+			"wed": "1100-2300",
+			"thu": "1100-2300",
+			"fri": "1100-2330",
+			"sat": "1100-2330",
+			"sun": "1100-2230"
+		},
+		"address": "2040 Coliseum Dr. Suite 17, Hampton VA 23666",
+		"phone": "757-826-8885",
+		"website": "https://plus.google.com/112863464609597022273/about?gl=us&hl=en"
+	},
+	{
+		"name": "PF Changs",
+		"type": "Chinese",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2300",
+			"tue": "1100-2300",
+			"wed": "1100-2300",
+			"thu": "1100-2300",
+			"fri": "1100-0000",
+			"sat": "1100-0000",
+			"sun": "1100-2300"
+		},
+		"address": "Town Center, 4551 Virginia Beach Blvd., Virginia Beach, VA 23462",
+		"phone": "757-473-9028",
+		"website": "http://www.pfchangs.com/"
+	},
+	{
+		"name": "zpizza",
+		"type": "Pizza",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2100",
+			"tue": "1100-2100",
+			"wed": "1100-2100",
+			"thu": "1100-2100",
+			"fri": "1100-2100",
+			"sat": "1100-2100",
+			"sun": "1100-2100"
+		},
+		"address": ["3376 Princess Anne Rd Virginia Beach, VA 23456‎", "4902 Courthouse St., Williamsburg VA, 23188"],
+		"phone": ["757-368-9090","757-645-3303"],
+		"website": "http://www.zpizza.com/"
+	},
+	{
+		"name": "Olive Garden",
+		"type": "Italian",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2200",
+			"tue": "1100-2200",
+			"wed": "1100-2200",
+			"thu": "1100-2200",
+			"fri": "1100-2300",
+			"sat": "1100-2300",
+			"sun": "1100-2200"
+		},
+		"address": "1049 West Mercury Boulevard Hampton, VA 23666‎‎",
+		"phone": "757-825-8874",
+		"website": "http://www.olivegarden.com/"
+	},
+	{
+		"name": "Denny's",
+		"type": "American Diner",
+		"glutenFree": "yes",
+		"hours": "24hr",
+		"address": "1040 West Mercury Boulevard Hampton, VA 23666‎",
+		"phone": "757-826-4537",
+		"website": "http://www.dennys.com/"
+	},
+	{
+		"name": "IHOP",
+		"type": "American Diner",
+		"glutenFree": "yes",
+		"hours": "24hr",
+		"address": "1002 West Mercury Boulevard Hampton, VA 23666‎",
+		"phone": "757-838-9350",
+		"website": "http://www.ihop.com/"
+	},
+	{
+		"name": "Panera Bread",
+		"type": "Bakery & Deli",
+		"hours": {
+			"mon": "0600-2100",
+			"tue": "0600-2100",
+			"wed": "0600-2100",
+			"thu": "0600-2100",
+			"fri": "0600-2100",
+			"sat": "0600-2100",
+			"sun": "0600-2000"
+		},
+		"address": "2170 Coliseum Drive Hampton, VA 23666‎‎",
+		"phone": "757-825-2670",
+		"website": "http://www.panerabread.com/"
+	},
+	{
+		"name": "Chick-fil-A",
+		"type": "American",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0630-2200",
+			"tue": "0630-2200",
+			"wed": "0630-2200",
+			"thu": "0630-2200",
+			"fri": "0630-2200",
+			"sat": "0630-2200",
+			"sun": "closed"
+		},
+		"address": "2140 Coliseum Drive Hampton, VA 23666‎‎",
+		"phone": "757-826-1277",
+		"website": "http://www.chick-fil-a.com/"
+	},
+	{
+		"name": "Quiznos",
+		"type": "Sandwiches",
+		"hours": {
+			"mon": "1000-2100",
+			"tue": "1000-2100",
+			"wed": "1000-2100",
+			"thu": "1000-2100",
+			"fri": "1000-2100",
+			"sat": "1000-2100",
+			"sun": "1000-2000"
+		},
+		"address": "2010 Coliseum Drive Hampton, VA 23666‎",
+		"phone": "757-838-8038",
+		"website": "http://www.quiznos.com/home.aspx"
+	},
+	{
+		"name": "Five Guys",
+		"type": "Hamburgers",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2200",
+			"tue": "1100-2200",
+			"wed": "1100-2200",
+			"thu": "1100-2200",
+			"fri": "1100-2200",
+			"sat": "1100-2200",
+			"sun": "1100-2200"
+		},
+		"address": "4210 East Claiborne Square Hampton, VA 23666‎",
+		"phone": "757-838-1141",
+		"website": "http://www.fiveguys.com/"
+	},
+	{
+		"name": "Cracker Barrel",
+		"type": "American",
+		"hours": {
+			"mon": "0600-2200",
+			"tue": "0600-2200",
+			"wed": "0600-2200",
+			"thu": "0600-2200",
+			"fri": "0600-2300",
+			"sat": "0600-2300",
+			"sun": "0600-2200"
+		},
+		"address": "106 Market Place Drive Hampton, VA 23666‎‎",
+		"phone": "757-262-2046",
+		"website": "http://www.crackerbarrel.com/"
+	},
+	{
+		"name": "El Azteca",
+		"type": "Mexican",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2200",
+			"tue": "1100-2200",
+			"wed": "1100-2200",
+			"thu": "1100-2200",
+			"fri": "1100-2200",
+			"sat": "1200-2100",
+			"sun": "1200-2100"
+		},
+		"address": ["2040 Coliseum Drive Hampton, VA 23666‎",
+					"1522 East Little Creek Road, Norfolk, VA 23518",
+					"103 North Washington Highway, Ashland, VA 23005",
+					"314 Constitution Drive, Virginia Beach, VA 23462"],
+		"phone": ["757-838-4063", 
+					"757-587-6016",
+					"804-798-4652",
+					"757-476-1746"],
+		"website": "http://www.elaztecamr.net/"
+	},
+	{
+		"name": "Jason's Deli",
+		"type": "Deli",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0800-2200",
+			"tue": "0800-2200",
+			"wed": "0800-2200",
+			"thu": "0800-2200",
+			"fri": "0800-2200",
+			"sat": "0800-2200",
+			"sun": "0800-2200"
+		},
+		"address": "39 Coliseum Crossing #15, Hampton, VA 23666‎",
+		"phone": "757-825-1501",
+		"website": "http://www.jasonsdeli.com/"
+	},
+	{
+		"name": "Subway",
+		"type": "Sandwiches",
+		"hours": {
+			"mon": "0700-2200",
+			"tue": "0700-2200",
+			"wed": "0700-2200",
+			"thu": "0700-2200",
+			"fri": "0700-2300",
+			"sat": "0800-2300",
+			"sun": "0900-2200"
+		},
+		"address": "91 Coliseum Crossing Hampton, VA 23666‎",
+		"phone": "757-826-7227",
+		"website": "http://www.subway.com/"
+	},
+	{
+		"name": "Gaubaukham Tai",
+		"type": "Thai",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "",
+			"tue": "",
+			"wed": "",
+			"thu": "",
+			"fri": "",
+			"sat": "",
+			"sun": ""
+		},
+		"address": "2270 Executive Drive Hampton, VA 23666‎‎",
+		"phone": "757-838-0341",
+		"website": "http://www.yelp.com/biz/gaubaukham-tai-restaurant-hampton"
+	},
+	{
+		"name": "Tommy's Restaurant",
+		"type": "American",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0630-1900",
+			"tue": "0630-1900",
+			"wed": "0630-1900",
+			"thu": "0630-1900",
+			"fri": "0630-1900",
+			"sat": "0630-1900",
+			"sun": "0630-1900"
+		},
+		"address": "3406 West Mercury Boulevard Hampton, VA 23666‎‎",
+		"phone": "757-825-1644",
+		"website": "https://plus.google.com/110883477671240648193/about?gl=us&hl=en"
+	},
+	{
+		"name": "Sunnyside Cafe",
+		"type": "Cafe",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0700-1400",
+			"tue": "0700-1400",
+			"wed": "0700-1400",
+			"thu": "0700-1400",
+			"fri": "0700-1400",
+			"sat": "0700-1400",
+			"sun": "0700-1400"
+		},
+		"address": "508 Atlantic Avenue Virginia Beach, VA 23451‎‎",
+		"phone": "757-965-3033",
+		"website": "http://www.sunnysidevb.com/"
+	},
+	{
+		"name": "The Leaping Lizard Cafe",
+		"type": "Cafe",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1000-1700",
+			"tue": "1000-1700",
+			"wed": "1000-1700",
+			"thu": "1000-1700",
+			"fri": "1000-1700",
+			"sat": "1000-1700",
+			"sun": "1100-1500"
+		},
+		"address": "4408 Shore Drive Virginia Beach, VA 23455‎",
+		"phone": "757-460-5327",
+		"website": "https://plus.google.com/100528166760394777944/about?hl=en"
+	},
+	{
+		"name": "Doumar's Cones & BBQ",
+		"type": "BBQ",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0800-2300",
+			"tue": "0800-2300",
+			"wed": "0800-2300",
+			"thu": "0800-2300",
+			"fri": "0800-0000",
+			"sat": "0800-0000",
+			"sun": "closed"
+		},
+		"address": "1919 Monticello Avenue Norfolk, VA 23517‎‎",
+		"phone": "757-627-4163",
+		"website": "http://www.doumars.com/news.html"
+	},
+	{
+		"name": "The Broken Egg Bistro",
+		"type": "American",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "0600-1500",
+			"tue": "0600-1500",
+			"wed": ["0600-1500","1700-2200"],
+			"thu": ["0600-1500","1700-2200"],
+			"fri": ["0600-1500","1700-2200"],
+			"sat": ["0700-1500","1700-2200"],
+			"sun": "0700-1500"
+		},
+		"address": ["5860 Harbour View Boulevard Suffolk, VA 23435‎", "501 Kempsville Rd., Chesapeake, VA 23320"],
+		"phone": ["757-967-0103", "757-410-8515"],
+		"website": "http://theeggbistro.com/"
+	},
+	{
+		"name": "Captain Chuck-A-Muck's",
+		"type": "Seafood",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "closed",
+			"tue": "0500-2100",
+			"wed": "0500-2100",
+			"thu": "0500-2100",
+			"fri": "1200-2200",
+			"sat": "1200-2200",
+			"sun": "1300-2000"
+		},
+		"address": "‎21088 Marina Road Rescue, VA 23424‎",
+		"phone": "757-356-1005",
+		"website": "http://www.captainchuck-a-mucks.com/"
+	},
+	{
+		"name": "Red Robin",
+		"type": "Hamburgers",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2200",
+			"tue": "1100-2200",
+			"wed": "1100-2200",
+			"thu": "1100-2200",
+			"fri": "1100-2300",
+			"sat": "1100-2300",
+			"sun": "1100-2200"
+		},
+		"address": "12300 Jefferson Avenue Newport News, VA 23602‎",
+		"phone": "757-882-8959",
+		"website": "http://www.redrobin.com/"
+	},
+	{
+		"name": "Smokey Bones BBQ & Grill",
+		"type": "BBQ",
+		"hours": {
+			"mon": "",
+			"tue": "",
+			"wed": "",
+			"thu": "",
+			"fri": "",
+			"sat": "",
+			"sun": ""
+		},
+		"address": "‎12541 Jefferson Avenue Newport News, VA 23602‎",
+		"phone": "757-988-0028",
+		"website": "http://www.smokeybones.com/"
+	},
+	{
+		"name": "Pho 79",
+		"type": "Vietnamese",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2100",
+			"tue": "1100-2100",
+			"wed": "1100-2100",
+			"thu": "1100-2100",
+			"fri": "1100-2200",
+			"sat": "1100-2200",
+			"sun": "1100-2100"
+		},
+		"address": ["12551 Jefferson Avenue #213 Newport News, VA 23603‎‎",
+					"1445 Sam's Dr. #101 Chesapeake, VA 23320",
+					"4816 Virginia Beach Blvd. Virginia Beach, VA 23462",
+					"723 West 21st St. Norfolk, VA 23517",
+					"6909 Staples Mill Rd. Richmond VA 23228"],
+		"phone": ["757-877-1213",
+					"757-547-4800",
+					"757-687-7844",
+					"757-333-4266",
+					"804-627-2200"],
+		"website": "http://www.eatpho79.com/"
+	},
+	{
+		"name": "Thai Erawan",
+		"type": "Thai",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2130",
+			"tue": "1100-2130",
+			"wed": "1100-2130",
+			"thu": "1100-2130",
+			"fri": "1100-2130",
+			"sat": "1200-2130",
+			"sun": "closed"
+		},
+		"address": ["2900 Hampton Highway Yorktown, VA 23693‎","3575 Bridge Road., Suite 27-28, Suffolk, VA 23435"],
+		"phone": ["757-766-2748", "757-686-2888"],
+		"website": "http://www.thaierawan.com/"
+	},
+	{
+		"name": "Thai Papaya",
+		"type": "Thai",
+		"glutenFree": "yes",
+		"hours": {
+			"mon": "1100-2030",
+			"tue": "1100-2030",
+			"wed": "1100-2030",
+			"thu": "1100-2030",
+			"fri": "1100-2030",
+			"sat": "1200-2030",
+			"sun": "1200-2030"
+		},
+		"address": ["2708 North Armistead Avenue Hampton, VA 23666‎","319 Chatham Dr. Newport News, VA 23602"],
+		"phone": ["757-788-8345", "757-874-0646"],
+		"website": "https://plus.google.com/101759709152323695180/about?gl=us&hl=en"
+	},
+	{
+		"name": "Los Paisas Locos",
+		"type": "Mexican",
+		"hours": {
+			"mon": "1100-2200",
+			"tue": "1100-2200",
+			"wed": "1100-2200",
+			"thu": "1100-2200",
+			"fri": "1100-2200",
+			"sat": "1100-2200",
+			"sun": "1100-2100"
+		},
+		"address": ["11710 Jefferson Avenue, Newport News, VA 23606", "2643 George Washington Memorial Hwy, Yorktown, VA 23693"],
+		"phone": ["757-595-8226","757-926-4445"],
+		"website": "https://www.facebook.com/pages/Los-Paisas-Locos-Y-Los-Paisas/252507201435858"
+	},
+	{
+		"name": "La Peña Horeb",
+		"type": "Domincan / Mexican / Puerto Rican",
+		"hours": {
+			"mon": "1000-2200",
+			"tue": "1000-2200",
+			"wed": "1000-2200",
+			"thu": "1000-2200",
+			"fri": "1000-2200",
+			"sat": "1000-2200",
+			"sun": "closed"
+		},
+		"address":"13633 Warwick Blvd. Ste 1, Newport News, VA 23602",
+		"phone": "757-969-5916",
+		"website": "https://www.facebook.com/pages/La-Pe%C3%B1a-de-Horeb/155869521166844"
+	},
+	{
+		"name": "De Rican Chef",
+		"type": "Puerto Rican",
+		"hours": {
+			"mon": "1100-2100",
+			"tue": "1100-2100",
+			"wed": "1100-2100",
+			"thu": "1100-2100",
+			"fri": "1100-2200",
+			"sat": "1100-2200",
+			"sun": "1100-2100"
+		},
+		"address":"3208 Holland Rd. Suite 105, Virginia Beach, VA 23452",
+		"phone": "757-468-1110",
+		"website": "http://www.dericanchef.net/"
+	},
+	{
+		"name": "El Desorden",
+		"type": "Columbian",
+		"hours": {
+			"mon": "1100-2100",
+			"tue": "1100-2100",
+			"wed": "1100-2100",
+			"thu": "1100-2100",
+			"fri": "1100-2200",
+			"sat": "1100-2200",
+			"sun": "1100-2100"
+		},
+		"address":"665 Newtown Road, Virginia Beach, VA 23462",
+		"phone": "757-497-4141",
+		"website": "http://www.eldesordenva.com/"
+	},
+	{
+		"name": "Food For Thought",
+		"type": "American",
+		"hours": {
+			"mon": "1130-2100",
+			"tue": "1130-2100",
+			"wed": "1130-2100",
+			"thu": "1130-2100",
+			"fri": "1130-2130",
+			"sat": "1130-2130",
+			"sun": "1130-2100"
+		},
+		"address":"1647 Richmond rd., Williamsburg, VA",
+		"phone": "757-645-4665",
+		"website": "http://www.foodforthoughtrestaurant.com/"
+	}]
+}
+
